@@ -1,5 +1,4 @@
 // Ethan Langley
-// CIT 163 Checkpoint program 2
 
 // This program will input data about the classes and grades for a student
 // and then compute data about their GPA
@@ -55,9 +54,6 @@ GPAData computeGPA(const std::vector<CourseData>& data) {
 
 }
 
-
-// Please do not edit this function. 
-// The only output in your program will be in this function
 
 void outputGPAinfo(const GPAData& myGPA) {
 
